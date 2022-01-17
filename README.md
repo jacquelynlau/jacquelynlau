@@ -1,6 +1,6 @@
 Hello! 👋
 
-I'm a front end developer + designer working in Canada. 
+I'm a fullstack developer + designer working in Canada. 
 
 - 🌱 currently @ TELUS 
 - 📫 reach me at jacquelynklau@gmail.com
