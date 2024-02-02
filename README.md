@@ -1,13 +1,7 @@
 Hello! 👋
 
-I'm a fullstack developer + designer working in Canada. 
+I'm a full stack developer working in Vancouver, BC. 
 
-- 🌱 currently @ TELUS 
-- 📚 learning React, Redux, GraphQl, and CI/CD processes
+- 🌱 ex-TELUS Digital developer on telus.com
+- 📚 continuously learning - currently leetcoding
 - 📫 reach me at jacquelynklau@gmail.com
-
-
-<!---
-jacquelynlau/jacquelynlau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
